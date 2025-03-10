@@ -39,7 +39,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/kamilmerkandi/laravel-onesignal"
+            "url": "https://github.com/KamilMerkandi/laravel-onesignal"
         }
     ],
     "autoload": {
